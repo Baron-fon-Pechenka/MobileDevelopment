@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Инкремент',
       theme: ThemeData(
-        primarySwatch: Colors.purple, // Замените на любой другой цвет
+        primarySwatch: Colors.purple,
       ),
       home: IncrementPage(),
     );
